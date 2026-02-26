@@ -68,10 +68,10 @@ const Contact = () => {
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">Our Email</h3>
                 <Link
-                  href="mailto:contact@deadlockai.com"
+                  href="mailto:info@deadlock-ai.com"
                   className="text-brand-yellow hover:underline"
                 >
-                  contact@deadlockai.com
+                  info@deadlock-ai.com
                 </Link>
               </div>
             </div>
