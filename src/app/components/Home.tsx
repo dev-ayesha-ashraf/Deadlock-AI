@@ -39,19 +39,19 @@ export default function PurposeHome() {
                 </svg>
               </span>
               <span className="text-sm md:text-[16px] text-brand-black font-mulish font-light md:font-normal">
-                Discover Deadlock AI
+                Meet Deadlock AI
               </span>
             </li>
           </ul>
 
           {/* Heading */}
           <h1 className="font-mulish font-bold text-2xl md:text-[52px] text-brand-black leading-snug md:leading-[1.1em]">
-            Empowering Your Enterprise with Cutting-Edge AI Solutions
+            Enabling Safe, Single-Tap Transactions Globally
           </h1>
 
           {/* Paragraph */}
           <p className="text-brand-black/80 font-mulish text-[18px] font-normal">
-            <strong>Deadlock AI </strong>is a premier artificial intelligence agency committed to transforming businesses through intelligent automation, advanced predictive modeling, and state-of-the-art neural architectures. We help you turn complex data into decisive, actionable insights.
+            <strong>Deadlock AI </strong> is a premier payment processing solution engineered to unite merchants and customers worldwide. Our reliable and streamlined single-tap interface simplifies transactions, offering various payment methods for exceptional convenience.
           </p>
 
           {/* Buttons */}

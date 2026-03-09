@@ -14,7 +14,7 @@ const initialCoreValues: CoreValue[] = [
   {
     title: "Excellence",
     description:
-      "We pursue technical excellence and robust neural architectures, ensuring our clients benefit from unmatched accuracy and predictive performance.",
+      "We focus on providing exceptional quality across all our services and products, ensuring our enterprise clients and stakeholders receive outstanding consistency and competitive advantages.",
     icon: (
       <path d="M12 2l2.39 4.85 5.35.78-3.87 3.77.91 5.32L12 14.9l-4.78 2.52.91-5.32-3.87-3.77 5.35-.78L12 2z" />
     ),
@@ -22,29 +22,29 @@ const initialCoreValues: CoreValue[] = [
   {
     title: "Integrity",
     description:
-      "Ethical AI and transparent data practices are the foundation of every model we build. We maintain rigorous standards for fairness and trust in automation.",
+      "Principled business practices and explicit communication anchor all our selections. We honor industry standards that create rapport with our enterprise clients, users, and stakeholders.",
     icon: (
       <path d="M12 2l8 4v6c0 5.25-3.25 10.74-8 12-4.75-1.26-8-6.75-8-12V6l8-4zM11 14l6-6-1.41-1.42L11 11.17 8.41 8.59 7 10l4 4z" />
     ),
   },
   {
-    title: "Intelligence First",
+    title: "Customer Focus",
     description:
-      "Understanding complex data landscapes is central to our work. Our solutions are designed to simplify information and enhance business intelligence.",
+      "Meeting the requirements of our enterprise clients and their consumers is core to our mission. Our platforms are crafted to improve monetary transit and boost user experience.",
     icon: (
       <path d="M12 12c2.7 0 5-2.3 5-5s-2.3-5-5-5-5 2.3-5 5 2.3 5 5 5zm0 2c-3.3 0-10 1.7-10 5v3h20v-3c0-3.3-6.7-5-10-5z" />
     ),
   },
   {
-    title: "Innovation",
+    title: "Meritocracy",
     description:
-      "We reward forward-thinking research and creative problem solving. Our breakthroughs are earned through technical rigor and a passion for machine learning.",
+      "We reward talent, hard work, and achievement. Opportunities and growth are earned based on performance and potential.",
     icon: <path d="M12 2l3 7h7l-5.5 4.5L18 22l-6-3.5L6 22l1.5-8.5L2 9h7l3-7z" />,
   },
   {
-    title: "Scalability",
+    title: "Progressiveness",
     description:
-      "We embrace highly scalable cloud-native architectures and edge-compute practices to foster growth for our partners and the global AI community.",
+      "We welcome cutting-edge advancements, perpetual development, and contemporary strategic approaches to encourage advancement for our operations, ecosystem, and collaborators.",
     icon: (
       <path d="M12 2c-1.1 0-2 .9-2 2v7H7l5 5 5-5h-3V4c0-1.1-.9-2-2-2zm-7 18v2h14v-2H5z" />
     ),
@@ -61,7 +61,7 @@ const additionalCoreValues: CoreValue[] = [
   {
     title: "Innovation",
     description:
-      "We constantly explore new technologies and approaches to stay ahead in the payment industry, delivering cutting-edge solutions to our partners.",
+      "We persistently explore novel systems and methodologies to maintain market leadership in the payment field, creating state-of-the-art solutions for our stakeholders.",
     icon: (
       <path d="M21 10.12h-6.78l2.74-2.82c-2.73-2.7-7.15-2.8-9.88-.1-2.73 2.71-2.73 7.08 0 9.79s7.15 2.71 9.88 0c1.36-1.35 2.04-3.16 2.04-4.95h2c0 1.98-.78 3.95-2.34 5.51-3.12 3.12-8.19 3.12-11.31 0-3.12-3.12-3.12-8.19 0-11.31 3.12-3.12 8.19-3.12 11.31 0l3.08-3.07V2.12h6v8z" />
     ),
@@ -69,7 +69,7 @@ const additionalCoreValues: CoreValue[] = [
   {
     title: "Collaboration",
     description:
-      "We believe in working together across teams and with our partners to achieve shared success and create greater value for everyone involved.",
+      "We value cross-functional cooperation alongside external collaborators to reach mutual objectives and deliver amplified benefits to everyone in our ecosystem.",
     icon: (
       <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z" />
     ),
@@ -77,7 +77,7 @@ const additionalCoreValues: CoreValue[] = [
   {
     title: "Transparency",
     description:
-      "We maintain open and honest communication with all stakeholders, ensuring clarity in our operations, pricing, and decision-making processes.",
+      "We maintain clear and truthful engagement with every stakeholder, guaranteeing openness in our systems, expense structures, and decision-making procedures.",
     icon: (
       <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z" />
     ),
@@ -85,7 +85,7 @@ const additionalCoreValues: CoreValue[] = [
   {
     title: "Sustainability",
     description:
-      "We are committed to building long-term value while considering the environmental and social impact of our business practices.",
+      "We are dedicated to generating persistent benefit while considering the natural and social implications of our business strategies.",
     icon: (
       <path d="M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71L12 2zM12 5.83L15.93 15.5l-3.93-1.88L8.07 15.5 12 5.83z" />
     ),

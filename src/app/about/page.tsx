@@ -38,14 +38,14 @@ export default function AboutCompanySection() {
           </div>
 
           <h2 className="text-2xl md:text-[35px] font-bold leading-snug text-brand-black">
-            Architecting Intelligence with Deadlock AI
+            Revolutionizing Payment Solutions Through Deadlock AI
           </h2>
 
           <p className="text-gray-600">
-            Deadlock AI is at the forefront of machine learning and neural systems. We specialize in developing robust, scalable AI architectures that empower businesses to automate intricate workflows and harness the full potential of their data.
+            Deadlock AI is constructing a modern payment infrastructure by partnering with top-tier wallet and card networks. We aspire to offer diverse collection and payment channels, allowing businesses to ensure swift, protected, and friction-free single-tap purchasing processes.
             <br />
             <br />
-            Our expertise ranges from fine-tuning large language models to implementing high-performance computer vision systems for real-time edge processing.
+            Through Deadlock AI integration, merchants access a consolidated checkout interface that eases technical implementation, minimizes transaction barriers, and strengthens buyer satisfaction throughout the payment experience.
           </p>
 
           {/* Vision */}
@@ -65,7 +65,7 @@ export default function AboutCompanySection() {
             <div>
               <h3 className="font-bold text-xl">Our Vision</h3>
               <p className="text-gray-600">
-                To be the global benchmark for ethical and performant AI, driving the next phase of human-machine collaboration and intelligent discovery.
+                To be recognized as a leading payment technology innovator for enterprises worldwide, delivering an integrated, dependable, and hassle-free single-tap purchasing option.
               </p>
             </div>
           </div>
@@ -87,7 +87,7 @@ export default function AboutCompanySection() {
             <div>
               <h3 className="font-bold text-xl">Our Mission</h3>
               <p className="text-gray-600">
-                To democratize advanced AI technology, making high-fidelity machine learning accessible, safe, and impactful for enterprises across every sector.
+                To streamline monetary transactions by furnishing enterprises with tested tools, facilitating enterprise prosperity, strategic efficiency, and sustainable industry benefit.
               </p>
             </div>
           </div>
@@ -109,7 +109,7 @@ export default function AboutCompanySection() {
             <div>
               <h3 className="font-bold text-xl">Our Values</h3>
               <p className="text-gray-600">
-                We are guided by technical excellence, algorithmic transparency, and data ethics. Our values ensure that every model we deploy is fair, accurate, and secure.
+                We stand by forward-thinking approaches, honesty, and confidence. These principles anchor our workplace, inform strategic choices, and strengthen our pledge to furnishing durable and expandable payment technologies.
               </p>
             </div>
           </div>

@@ -7,35 +7,27 @@ export default function Products() {
 
         {/* First Column */}
         <div className="relative bg-brand-black rounded-lg font-mulish py-[40px] px-[50px] shadow space-y-6 text-white w-full lg:w-[40%]">
-          <h2 className="text-[25px] font-bold">Our AI Services:</h2>
+          <h2 className="text-[25px] font-bold">Our Services:</h2>
           <ul className="space-y-3">
-            <li className="font-medium text-brand-yellow">Core Capabilities</li>
+            <li className="font-medium text-brand-yellow">Collections (Pay-In Service)</li>
             <li className="flex items-center space-x-2">
               <Check className="text-brand-yellow w-4 h-4" />
-              <span>Predictive Analytics</span>
+              <span>Mobile wallets</span>
             </li>
             <li className="flex items-center space-x-2">
               <Check className="text-brand-yellow w-4 h-4" />
-              <span>Natural Language Processing</span>
-            </li>
-            <li className="flex items-center space-x-2">
-              <Check className="text-brand-yellow w-4 h-4" />
-              <span>Computer Vision</span>
+              <span>Debit and Credit Cards</span>
             </li>
           </ul>
           <ul className="space-y-3">
-            <li className="font-medium text-brand-yellow">Solutions for Enterprise</li>
+            <li className="font-medium text-brand-yellow">Disbursements (Pay-Out Service)</li>
             <li className="flex items-center space-x-2">
               <Check className="text-brand-yellow w-4 h-4" />
-              <span>Intelligent Automation</span>
+              <span>Mobile wallets</span>
             </li>
             <li className="flex items-center space-x-2">
               <Check className="text-brand-yellow w-4 h-4" />
-              <span>Sentiment Analysis</span>
-            </li>
-            <li className="flex items-center space-x-2">
-              <Check className="text-brand-yellow w-4 h-4" />
-              <span>Custom LLM Training</span>
+              <span>IBFT</span>
             </li>
           </ul>
         </div>
@@ -49,47 +41,51 @@ export default function Products() {
                 <span className="text-brand-yellow mr-3">
                   <Check className="w-5 h-5" strokeWidth={3} />
                 </span>
-                <span className="text-gray-800 text-base">Neural Architectures</span>
+                <span className="text-gray-800 text-base">Online Payment
+
+
+                </span>
               </li>
               <li className="flex items-center">
                 <span className="text-brand-yellow mr-3">
                   <Check className="w-5 h-5" strokeWidth={3} />
                 </span>
-                <span className="text-gray-800 text-base">Cloud Deployment</span>
+                <span className="text-gray-800 text-base">Platform Support</span>
               </li>
               <li className="flex items-center">
                 <span className="text-brand-yellow mr-3">
                   <Check className="w-5 h-5" strokeWidth={3} />
                 </span>
-                <span className="text-gray-800 text-base">Data Privacy & Security</span>
+                <span className="text-gray-800 text-base">Secured Transactions</span>
               </li>
               <li className="flex items-center">
                 <span className="text-brand-yellow mr-3">
                   <Check className="w-5 h-5" strokeWidth={3} />
                 </span>
-                <span className="text-gray-800 text-base">Real-time Insights</span>
+                <span className="text-gray-800 text-base">
+                  Responsive Web App</span>
               </li>
               <li className="flex items-center">
                 <span className="text-brand-yellow mr-3">
                   <Check className="w-5 h-5" strokeWidth={3} />
                 </span>
-                <span className="text-gray-800 text-base">Scalable APIs</span>
+                <span className="text-gray-800 text-base">Divide Group Payments</span>
               </li>
               <li className="flex items-center">
                 <span className="text-brand-yellow mr-3">
                   <Check className="w-5 h-5" strokeWidth={3} />
                 </span>
-                <span className="text-gray-800 text-base">Ethical AI Compliance</span>
+                <span className="text-gray-800 text-base">Lock Protection</span>
               </li>
             </ul>
 
             {/* Heading + Paragraph - Right on lg */}
             <div className="space-y-4 lg:w-1/2 order-1 lg:order-2">
               <h3 className="text-2xl font-semibold text-brand-black">
-                The Deadlock Advantage:
+                The Deadlock Offering:
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                We provide sophisticated AI solutions tailored for the modern enterprise, helping you scale with intelligence across all industry sectors:
+                An efficient, trouble-free single-tap purchasing method for all kinds of payins and transfers. We proudly accommodate the following business verticals:
               </p>
             </div>
 

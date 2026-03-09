@@ -42,8 +42,8 @@ export default function CollectionsSection() {
             </div>
 
             <div>
-              <h2 className="text-2xl md:text-3xl font-semibold text-brand-black">AI Solutions For:</h2>
-              <p className="mt-3 text-gray-600">Enterprise leaders aiming to automate processes and gain a predictive edge can leverage our high-fidelity AI models for transformative growth.</p>
+              <h2 className="text-2xl md:text-3xl font-semibold text-brand-black">Collections to Support:</h2>
+              <p className="mt-3 text-gray-600">Enterprise entities seeking reliable payment collection can effortlessly integrate with our platform for a smooth single-tap checkout option.</p>
             </div>
 
             {/* Feature list - Collections */}
@@ -51,10 +51,12 @@ export default function CollectionsSection() {
               <div className="flex flex-col md:flex-row gap-6">
                 <div className="w-full">
                   <ul className="space-y-4 text-gray-700">
-                    <FeatureItem text="Education AI: Adaptive learning platforms and intelligent administrative systems." />
-                    <FeatureItem text="Retail AI: Predictive inventory, customer sentiment analysis, and personalized recommendations." />
-                    <FeatureItem text="FinTech AI: Algorithmic risk assessment and intelligent fraud detection." />
-                    <FeatureItem text="Industrial AI: Predictive maintenance and automated quality control." />
+                    <FeatureItem text="Educational institutes, e.g. schools, colleges, universities, tuition centers for collection of fee, other charges." />
+                    <FeatureItem text="Digital gaming platforms and applications offering digital goods." />
+                    <FeatureItem text="e-Commerce platforms and applications offering clothing, groceries etc." />
+                    <FeatureItem text="Marketplaces offering services." />
+                    <FeatureItem text="Social media platform offering subscriptions and e-goods." />
+
                   </ul>
                 </div>
               </div>
@@ -62,15 +64,15 @@ export default function CollectionsSection() {
 
             {/* Disbursements heading */}
             <div>
-              <h2 className="text-2xl md:text-3xl font-semibold text-brand-black">Seamless Integration With:</h2>
+              <h2 className="text-2xl md:text-3xl font-semibold text-brand-black">Efficient Transfers for:</h2>
             </div>
 
             {/* Feature list - Disbursements */}
             <div>
               <ul className="space-y-4">
-                <FeatureItem text="Cloud Ecosystems (AWS, Google Cloud, Azure)." />
-                <FeatureItem text="Existing Enterprise Resource Planning (ERP) systems." />
-                <FeatureItem text="Custom Edge device deployment for real-time inference." />
+                <FeatureItem text="Payrolls, commissions, Vendors and refunds for any entity." />
+                <FeatureItem text="Refunds and reimbursements." />
+                <FeatureItem text="Digital services, e.g. web-designing, Freelancing and content development etc." />
               </ul>
             </div>
 

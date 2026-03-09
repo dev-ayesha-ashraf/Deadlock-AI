@@ -55,12 +55,12 @@ const Contact = () => {
             className="flex flex-col space-y-6"
           >
             <h1 className="text-4xl md:text-5xl font-extrabold leading-tight text-gray-900">
-              Core Values & Principles <br />
-              <span className="text-brand-yellow">Driving Force Behind Us</span>
+              Our Standards & Mission <br />
+              <span className="text-brand-yellow">What Propels Our Work</span>
             </h1>
 
             <p className="text-lg text-gray-600 max-w-md">
-              We’d love to hear from you. Whether it’s a question, idea, or just a friendly hello, we’re always here.
+              We're keen to connect with you. Whether you have concerns, proposals, or simply wish to say hello, we're ready and eager to assist.
             </p>
 
             <div className="flex items-center gap-3 p-5 bg-white/70 backdrop-blur-lg rounded-lg shadow hover:shadow-lg transition">

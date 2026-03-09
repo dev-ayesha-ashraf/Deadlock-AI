@@ -29,7 +29,7 @@ export default function Footer() {
         <div className="bg-brand-yellow p-[40px] rounded-[30px]">
           <h4 className="text-xl font-semibold text-brand-black mb-4">About Company</h4>
           <p className="text-md leading-relaxed mb-4 text-brand-black">
-            Deadlock AI is defining the future of enterprise intelligence. We provide sophisticated AI solutions that help businesses automate workflows, predict trends, and scale with confidence.
+            Deadlock AI is constructing the landscape of internet business across the region. We deliver an integrated, potent payment interface that flawlessly joins businesses to financial networks.
           </p>
         </div>
 
