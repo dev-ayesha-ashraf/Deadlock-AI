@@ -3,7 +3,7 @@
 import React, { ChangeEvent, FormEvent, useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { Mail, Send } from "lucide-react";
+import { Mail, MapPin, Send } from "lucide-react";
 
 
 const Contact = () => {
@@ -69,10 +69,20 @@ const Contact = () => {
                 <h3 className="text-lg font-semibold text-gray-900">Our Email</h3>
                 <Link
                   href="mailto:info@deadlock-ai.com"
-                  className="text-brand-yellow hover:underline"
+                  className="text-gray-700 hover:underline"
                 >
                   info@deadlock-ai.com
                 </Link>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-3 p-5 bg-white/70 backdrop-blur-lg rounded-lg shadow hover:shadow-lg transition">
+              <MapPin className="w-6 h-6 text-brand-yellow" />
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900">Our Address</h3>
+                <p className="text-gray-700">
+                  1303, Al Najeebi Electronic Market, Abdullah Haroon Road, Saddar, Karachi, Pakistan
+                </p>
               </div>
             </div>
           </motion.div>
